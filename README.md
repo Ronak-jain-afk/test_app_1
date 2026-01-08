@@ -32,7 +32,7 @@ Permission Scanner is an Android application designed to help users identify and
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/permission-scanner.git
+    git clone https://github.com/Ronak-jain-afk/test_app_1.git
     ```
 2.  Open the project in **Android Studio**.
 3.  Sync the project with Gradle files.
