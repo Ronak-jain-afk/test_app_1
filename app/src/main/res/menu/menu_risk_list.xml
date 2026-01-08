@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_sort_name"
+        android:title="Sort by Name"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_sort_risk"
+        android:title="Sort by Risk"
+        app:showAsAction="never" />
+</menu>
